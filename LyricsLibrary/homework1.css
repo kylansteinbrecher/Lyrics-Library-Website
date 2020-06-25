@@ -1,0 +1,202 @@
+#after
+{
+	clear:left;
+}
+#accepts
+{
+	font-family:arial;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:1.5em;
+	width:70%;
+
+
+}
+#button
+{
+	position:relative;
+	top:4em;
+	right:13em;
+	width:10em;
+	height:5em;
+}
+#firstName input
+{
+	margin-bottom:2em;
+	margin-right:1em;
+	width:6em;
+}
+#lastName input
+{
+	margin-bottom:2em;
+	width:10em;
+}
+#left
+{
+	border:1px solid black;
+	margin-left:20%;
+	margin-right:auto;
+	display:block;
+	float:left;
+	padding:4em;
+	width:em;
+	height:8em;
+	padding-top:1em;
+}
+#right
+{
+	float:left;
+	border:1px solid black;
+	width:15em;
+	padding:4em;
+	margin-left:6em;
+	height:8em;
+	padding-top:1em;
+	
+}
+#requestlabel
+{
+	font-weight:bold;
+	font-family:arial;
+	width:50%;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#navbar a:link
+{
+	padding:.5em;
+	font-size:1.2em;
+	color:black;
+}
+#navbar a:hover
+{
+	color:white;
+}
+#navbar a:active,a:visited
+{
+	color:black;
+}
+
+#title h1
+{
+	text-align:center;
+	font-family:lucida sans;
+	font-size: 3em;
+	color:black;
+	-webkit-text-stroke:2.2px #fff9f2;
+	margin-bottom:.2em;
+}
+
+#navigation
+{
+	background:url("sheetMusic.jpg");
+	margin:-1em;
+	position:fixed;
+	width:100%;
+	max-width:2700px;
+	background-color:blue;
+	
+	
+	
+}
+#navbar
+{
+	font-family:lucida sans;
+	text-align:right;
+	margin-left:3em;
+	width:90%;
+	font-size:.85em;
+	margin-right:-1em;
+	margin-bottom:.5em;
+	
+}
+#studio
+{
+	display:block;
+	float:left;
+	margin-top:9em;
+	margin-bottom:3em;
+	padding-left:3em;
+	height:25%;
+}
+#welcome
+{
+	font-family:Arial;
+	display:block;
+	float:left;
+	margin-left:10em;
+	margin-right:auto;
+	margin-top:9em;
+	text-align:center;
+	width:35%;
+	height:18em;
+	background:#fff9f2;
+}
+footer
+{
+	clear:left;
+	margin-top:18em;
+	margin-left:auto;
+	margin-right:auto;
+	border-top:.5px solid black;
+}
+
+footer li
+{
+	display:inline;
+	padding:6em;
+}
+#navABC li
+{
+	display:inline;
+	padding:1em;
+	
+}
+#navABC
+{
+	margin-top:5em;
+	margin-right:2em;
+	margin-left:2em;
+}
+#navABC a
+{
+	color:blue;
+}
+table
+{
+	margin-left:20%;
+	margin-right:auto;
+	font-size:1.25em;
+	width:55em;
+}
+th
+{
+	text-align:left;
+}
+#buy
+{
+	padding-left:22em;
+}
+.songLyrics
+{
+	list-style-type:none;
+	text-align:center;
+	font-size:1.25em;
+}
+#Lyrics
+{
+	margin-top:3em;
+	padding:0;
+	margin:0;
+}
+#albumLeft
+{
+	position:relative;
+	bottom:25em;
+	left:10em;
+	opacity:75%;
+}
+
